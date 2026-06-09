@@ -217,4 +217,4 @@ AirDrop交換用の `.stepshot` ファイルには、正確な緯度・経度を
 
 本ポリシーに関するお問い合わせは、以下までお願いいたします。
 
-https://forms.gle/9SfgySrr3WBrSka69
+https://forms.gle/N4eUZ2fPaxCetTc19
